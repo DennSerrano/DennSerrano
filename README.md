@@ -31,8 +31,10 @@ const Skills = [
                  "frond-end": " BODSTRAP "
                  
                  "back-end": " NODE-JS "
-                 
-]
+                  
+                  }
+                  
+                 ]
 
 
 
